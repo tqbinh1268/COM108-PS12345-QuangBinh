@@ -26,7 +26,7 @@ Sinh viên cần thực hiện commit theo từng đơn vị nhỏ (Atomic Commi
 | Nội dung | Yêu cầu |
 |---|---|
 | Số lượng | Nộp 4 video riêng biệt cho 4 bài của Lab. Không gộp chung thành một video tổng hợp, kể cả khi các bài được viết trong cùng một file code. |
-| Thời lượng | Tối đa 5 phút cho mỗi video. Video vượt quá thời lượng quy định bị trừ 0.25 điểm cho mỗi phút vượt. |
+| Thời lượng | Tối ưu 5 phút cho mỗi video.  |
 | Hình thức ghi hình | Sinh viên bắt buộc mở webcam quay rõ mặt và chia sẻ màn hình IDE trong suốt video. Sử dụng phần mềm OBS, Clipchamp hoặc Loom để ghi hình; không sử dụng điện thoại để quay lại màn hình máy tính. |
 | Âm thanh | Sinh viên phát âm rõ ràng bằng giọng nói thật của mình. Không sử dụng công nghệ Text-to-Speech (AI lồng tiếng); không để nhạc nền lấn át giọng nói. |
 | Nội dung bắt buộc | Video phải thể hiện đầy đủ hai nội dung: (a) quá trình tự tay gõ code trực tiếp trong VS Code, không copy-paste; (b) phần diễn giải bản chất kỹ thuật của bài làm. |
